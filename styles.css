@@ -45,7 +45,7 @@ body {
 .main {
   width: 40rem;
   margin-bottom: 5rem;
-  box-shadow: 0 0.1rem 1.5rem rgba(56, 56, 56, 0.2);
+  box-shadow: 0 0.1rem 1.5rem var(--light-gray);
   border-radius: 1.5rem;
   overflow: hidden;
   padding: 1.5rem;
