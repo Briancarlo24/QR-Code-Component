@@ -33,6 +33,7 @@ body {
   font-family: "Outfit", sans-serif;
   height: 100vh;
   width: 100%;
+  background-color: var(--light-gray);
 
   font-size: 1.5rem;
   display: flex;
@@ -46,6 +47,7 @@ body {
   width: 40rem;
   margin-bottom: 5rem;
   box-shadow: 0 0.1rem 1.5rem var(--light-gray);
+  background-color: white;
   border-radius: 1.5rem;
   overflow: hidden;
   padding: 1.5rem;
